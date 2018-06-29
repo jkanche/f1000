@@ -1,0 +1,6 @@
+{
+  "name": "f1000build",
+  "short_name": "f1000build",
+  "start_url": "/",
+  "display": "standalone"
+}
